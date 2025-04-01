@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+   
+    <link rel="stylesheet" href="cethostel.css">
+    <title>Calculator</title>
+</head>
+<body>
+    <div class="container5">
+   <div class="card4">
+    <h1 class="about">DISCOUNT CALCULATOR</h1>
+    <form action="#">
+        <div>
+            <label for="amount" class="h5"> Enter Rent</label>
+            <input type="text" id="amount">
+        </div>
+
+        <div>
+            <label for="discount-percentage"  class="h5">Select DISTRICT</label>
+            <select name="percentage" id="discount-percentage">
+                <option value="0">TVM</option>
+                <option value="0">KLM</option>
+                <option value="0">ALP</option>
+                <option value="0">PAT</option>
+                <option value="5">KOT</option>
+                <option value="5">ERN</option>
+                <option value="5">IDK</option>
+                <option value="5">THR</option>
+                <option value="10">PKD</option>
+                <option value="10">MLP</option>
+                <option value="15">KKD</option>
+                <option value="20">WYN</option>
+                <option value="20">KNR</option>  
+                <option value="25">KSD</option>
+                
+            </select>
+        </div>
+
+
+        <div>
+            <label for="discount-amount" class="h5">Discount amount:</label>
+            <input type="text" id="discount-amount" disabled>
+        </div>
+
+
+        <div>
+            <label for="pay" aria-disabled="true" class="h5">Final Pay:</label>
+            <input type="text" id="pay" disabled>
+        </div> 
+
+        <button type="submit" class="calculate">Calculate</button>
+        <input type ="reset"  value="Reset" onClick="window.location.reload()" class="calculate">
+    
+    </form>
+   </div>
+</div>
+<script src="./main.js"></script>
+</body>
+</html>
