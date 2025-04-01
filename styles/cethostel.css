@@ -1,0 +1,325 @@
+
+/*THIS IS CSS CODE*/
+
+.bg{
+    
+    background-position:cover ;
+    height:30vh;
+    width: 60vw;
+    margin-left:275px ;
+   
+}
+
+.h1{
+    text-align: center;
+    font-size: 70px;
+    color:black;  
+    margin-left:-200px ;  
+}
+
+
+.img{
+    height:180px;
+    width: 1550px;
+    
+    
+
+}
+
+.img1{
+    height:150px;
+    width: 150px;
+    margin-left:-650px ;
+    margin-top:5px;
+    
+
+}
+
+.container1{
+   display: flex;
+   justify-content: space-evenly;
+   align-items: flex-start; 
+
+}
+
+.about{
+    font-size:45px;
+    font-family:Bree serif ;
+    color:#f35600;
+    font-weight:bold;
+    
+    margin:50px;
+}
+
+
+.p1{
+    font-size:18px;
+    font-family:Bree ;
+    color:black;;
+    font-weight:500;
+    
+    margin:50px; 
+}
+
+
+.card{
+    background-color:sandybrown;
+    border-radius:20px ;
+    height: 280px;
+    width:200px;
+    margin-left:200px ;
+    
+}
+.card2{
+    background-color:sandybrown;
+    border-radius:20px ;
+    height: 280px;
+    width:200px;
+    margin-right:200px ;
+
+    
+}
+
+.bg3{
+    background-image: url("https://png.pngtree.com/background/20230611/original/pngtree-bunk-beds-and-a-window-in-a-green-room-picture-image_3130749.jpg");
+    background-size:cover;
+    height: 100vh;
+    
+}
+.container2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start; 
+ 
+ }
+
+ .img2{
+    height:150px;
+    width: 150px;
+    margin:25px ;
+    
+
+}
+
+.card3{
+    background-color:skyblue; 
+    color: black;
+    height:210px;   
+    width: 500px;
+    margin-top:20px;
+    border-radius:15px ;
+
+    
+}
+
+.h2{
+    text-align:left;
+    font-size:35px;
+    color:#2a0bd6;  
+    margin-left:50px ;  
+}
+
+.explore{
+  margin-left:50px;
+  border-radius:15px ;
+  border-width:0px ;
+  color: #000000;
+  background-color:#0ded23;
+  font-size:25px ;
+  font-weight: bold;
+  font-family: bree;
+  height: 50px;
+  width:150px;
+  text-align: center;
+  margin-left: 655px;
+}
+
+.h11{
+ 
+    padding-top:55px ;
+    color: #eded04;
+ 
+    font-size:35px ;
+    font-weight: bold;
+    font-family: bree;
+    
+    text-align: center;
+  
+  }
+
+
+  .h22{
+   
+    border-radius:15px ;
+    border-width:0px ;
+    color: #000000;
+    background-color:#0ded23 ;
+    font-size:25px ;
+    font-weight: bold;
+    font-family: bree;
+    height: 70px;
+    width:250px;
+    text-align: center;
+    margin-left: 620px;
+    
+  }
+
+
+  .female{
+    margin-left:50px;
+    border-radius:15px ;
+    border-width:0px ;
+    color: #ffffff;
+    background-color:#000000 ;
+    font-size:25px ;
+    font-weight: bold;
+    font-family: bree;
+    height: 50px;
+    width:150px;
+    text-align: center;
+    margin-left: 28px;
+  }
+
+  .male{
+    margin-left:50px;
+    border-radius:15px ;
+    border-width:0px ;
+    color: #ffffff;
+    background-color:#000000 ;
+    font-size:25px ;
+    font-weight: bold;
+    font-family: bree;
+    height: 50px;
+    width:150px;
+    text-align: center;
+    margin-left: 28px;
+  }
+
+
+  .back{
+   
+    border-radius:15px ;
+    border-width:0px ;
+    color: #000000;
+    background-color:#b4cd39;
+    margin-top:110px ;
+    font-size:20px ;
+    font-weight:normal;
+    font-family: bree;
+    height: 40px;
+    width:100px;
+    text-align: center;
+    margin-left: 700px;
+    
+    
+  }
+
+  .img3{
+    height:190px;
+    width:35%;
+    margin-left: -120px;
+    margin-top:10px ;
+    
+
+}
+
+.container3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start; 
+ 
+ }
+
+
+.m{
+    margin-left: -240px;
+}
+
+.heading{
+    color:#ffffff;
+    font-family:bree ;
+    font-size:25px;
+    font-weight: bold;
+}
+
+.p3{
+    color:#fa1f1f;
+    font-family:bree ;
+    
+    
+}
+
+.m1{
+    margin-top:-35px;
+}
+
+.m2{
+    margin-top:-35px;
+    margin-left:20px ;
+    margin-right:-40px;
+}
+
+.container4{
+    display: flex;
+    flex-direction:row ;
+   
+  
+ 
+ }
+
+ .card4{
+    background-color:skyblue; 
+    color: black;
+    height:380px;   
+    width: 500px;
+    margin-top:20px;
+    border-radius:15px ;
+    padding:2px ;
+
+}
+
+.container5{
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+   
+  
+ 
+ }
+
+ .h5{
+    color:#060101;
+    font-family:bree ;
+    font-size:20px;
+    font-weight:normal;
+    margin-left:20px ;
+}
+
+
+
+
+
+.calculate{
+   
+    border-radius:15px ;
+    border-width:0px ;
+    color: #000000;
+    background-color:#e0150a;
+    margin-left:20px;
+    font-size:20px ;
+    font-weight:bold;
+    font-family: bree;
+    height: 40px;
+    width:100px;
+    text-align: center;
+    
+    margin-top:10px;
+    
+  }
+
+  .s{
+    color:#090100;
+    font-weight:bold;
+    font-size:20px ;
+  }
